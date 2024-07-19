@@ -1,0 +1,7 @@
+id = "theme-panda"
+name = "Panda"
+version = "0.5.0"
+schema_version = 1
+authors = ["blaqat <blaqat.ag@gmail.com>"]
+description = "Panda theme for Zed"
+repository = "https://github.com/blaqat/zed-themes/panda"
