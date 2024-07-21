@@ -1,6 +1,6 @@
 id = "panda-theme"
 name = "Panda Theme"
-version = "0.5.0"
+version = "0.6.0"
 schema_version = 1
 authors = ["blaqat <blaqat.ag@gmail.com>"]
 description = "Panda Syntax theme for Zed"
