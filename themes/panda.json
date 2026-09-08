@@ -531,7 +531,7 @@
 						"font_weight": null
 					}
 				},
-				"tab.active_background": "#1E1E1E",
+				"tab.active_background": "#31353A",
 				"tab.inactive_background": "#191918",
 				"tab_bar.background": "#191918",
 				"terminal.ansi.black": null,
