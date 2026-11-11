@@ -529,7 +529,12 @@
 						"color": "#E6E6E6",
 						"font_style": null,
 						"font_weight": null
-					}
+					},
+					"property": {
+            "color": "#FFCC95",
+            "font_style": null,
+            "font_weight": null
+          }
 				},
 				"tab.active_background": "#1E1E1E",
 				"tab.inactive_background": "#191918",
