@@ -656,7 +656,7 @@
 				"ghost_element.selected": "#9785C239",
 				"hidden": "#919CB9",
 				"hidden.border": "#919CB924",
-				"hint": "#c302f9",
+				"hint": "#F1F1F1",
 				"hint.background": "#74D6E98F",
 				"hint.border": "#74D6E9",
 				"icon": null,
